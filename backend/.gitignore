@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+storage/public/*
+storage/private/*
+!storage/**/.gitkeep
+logs/
+coverage/
+storage/import-cache/

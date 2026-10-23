@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="776" viewBox="0 0 600 776" role="img" aria-label="Placeholder: Newsletter cover">
+  <defs>
+    <pattern id="hatch" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="24" height="24" fill="#EEF2F8"/>
+      <line x1="0" y1="0" x2="0" y2="24" stroke="#DCE3EE" stroke-width="10"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="776" fill="url(#hatch)"/>
+  <rect x="6" y="6" width="588" height="764" fill="none" stroke="#9AA8C2" stroke-width="4" stroke-dasharray="18 12"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#0A2961">
+    <text x="300" y="362.8" font-size="42" font-weight="700">Newsletter cover</text>
+    <text x="300" y="411.4" font-size="26" fill="#4F5A70">600 × 776 px · 0.77:1</text>
+    <text x="300" y="450.4" font-size="21" fill="#6B778F">PLACEHOLDER – replace in Admin › Media</text>
+  </g>
+</svg>

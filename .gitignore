@@ -1,0 +1,15 @@
+# Each application has its own .gitignore; these are repository-wide safety nets.
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+
+# Deployment archives (may contain .env secrets and node_modules)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tgz
