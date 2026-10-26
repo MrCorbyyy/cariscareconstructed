@@ -91,7 +91,7 @@ export default async function HomePage() {
                     <h3 className="text-xl font-bold">
                       <Link href={`/${f.path}`} className="after:absolute after:inset-0 group-hover:text-brand-700">
                         {page?.title ?? f.label}
-                      </Link>
+                      </Link>  
                     </h3>
                     {page?.summary && <p className="mt-3 text-[0.98rem] text-muted">{page.summary}</p>}
                     <span className="mt-auto inline-flex items-center gap-1.5 pt-5 font-display font-semibold text-brand-700" aria-hidden>
